@@ -1,0 +1,12 @@
+com/jiangren/j2ee/springjpa/one2many/repository/CompanyRepository.class
+com/jiangren/j2ee/springjpa/one2many/SpringJpaOneToManyRelationshipApplication$2.class
+com/jiangren/j2ee/springjpa/one2many/SpringJpaOneToManyRelationshipApplication.class
+com/jiangren/j2ee/springjpa/one2one/repository/HusbandRepository.class
+com/jiangren/j2ee/springjpa/one2one/model/Wife.class
+com/jiangren/j2ee/springjpa/one2many/model/Company.class
+com/jiangren/j2ee/springjpa/one2one/SpringJpaOneToOneApplication.class
+com/jiangren/j2ee/springjpa/one2many/repository/ProductRepository.class
+com/jiangren/j2ee/springjpa/one2many/model/Product.class
+com/jiangren/j2ee/springjpa/one2many/SpringJpaOneToManyRelationshipApplication$1.class
+com/jiangren/j2ee/springjpa/one2one/repository/WifeRepository.class
+com/jiangren/j2ee/springjpa/one2one/model/Husband.class

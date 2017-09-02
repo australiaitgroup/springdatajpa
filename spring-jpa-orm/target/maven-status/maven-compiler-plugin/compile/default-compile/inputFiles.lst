@@ -1,0 +1,15 @@
+/Users/test/coding/spring-jpa/spring-jpa-orm/src/main/java/com/jiangren/j2ee/springjpa/one2many/repository/CompanyRepository.java
+/Users/test/coding/spring-jpa/spring-jpa-orm/src/main/java/com/jiangren/j2ee/springjpa/one2many/model/Product.java
+/Users/test/coding/spring-jpa/spring-jpa-orm/src/main/java/com/jiangren/j2ee/springjpa/many2many/SpringJpaMany2ManyApplication.java
+/Users/test/coding/spring-jpa/spring-jpa-orm/src/main/java/com/jiangren/j2ee/springjpa/one2many/SpringJpaOneToManyRelationshipApplication.java
+/Users/test/coding/spring-jpa/spring-jpa-orm/src/main/java/com/jiangren/j2ee/springjpa/one2one/repository/HusbandRepository.java
+/Users/test/coding/spring-jpa/spring-jpa-orm/src/main/java/com/jiangren/j2ee/springjpa/many2many/model/Subject.java
+/Users/test/coding/spring-jpa/spring-jpa-orm/src/main/java/com/jiangren/j2ee/springjpa/many2many/repository/StudentRepository.java
+/Users/test/coding/spring-jpa/spring-jpa-orm/src/main/java/com/jiangren/j2ee/springjpa/one2many/repository/ProductRepository.java
+/Users/test/coding/spring-jpa/spring-jpa-orm/src/main/java/com/jiangren/j2ee/springjpa/one2many/model/Company.java
+/Users/test/coding/spring-jpa/spring-jpa-orm/src/main/java/com/jiangren/j2ee/springjpa/many2many/model/Student.java
+/Users/test/coding/spring-jpa/spring-jpa-orm/src/main/java/com/jiangren/j2ee/springjpa/one2one/SpringJpaOneToOneApplication.java
+/Users/test/coding/spring-jpa/spring-jpa-orm/src/main/java/com/jiangren/j2ee/springjpa/one2one/model/Husband.java
+/Users/test/coding/spring-jpa/spring-jpa-orm/src/main/java/com/jiangren/j2ee/springjpa/one2one/repository/WifeRepository.java
+/Users/test/coding/spring-jpa/spring-jpa-orm/src/main/java/com/jiangren/j2ee/springjpa/many2many/repository/SubjectRepository.java
+/Users/test/coding/spring-jpa/spring-jpa-orm/src/main/java/com/jiangren/j2ee/springjpa/one2one/model/Wife.java
